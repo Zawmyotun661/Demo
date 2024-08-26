@@ -37,11 +37,11 @@ $(document).ready(function(){
 			context = canvas.getContext('2d'),
 			defaults = {
 				star: {
-					color: 'rgba(255, 255, 255, 0.45)',
+					color: 'rgba(73, 233, 164, 0.45)',
 					width: 3
 				},
 				line: {
-					color: 'rgba(255, 255, 255, 0.45)',
+					color: 'rgba(73, 233, 164, 0.45)',
 					width: 0.2
 				},
 				position: {
